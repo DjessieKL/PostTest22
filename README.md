@@ -1,0 +1,5 @@
+![alt text](Screenshot/IdProduk.PNG)
+![alt text](Screenshot/deleteprodu.PNG)
+![alt text](Screenshot/ListProduk.PNG)
+![alt text](Screenshot/Patch.PNG)
+![alt text](Screenshot/PutUpdate.PNG)
